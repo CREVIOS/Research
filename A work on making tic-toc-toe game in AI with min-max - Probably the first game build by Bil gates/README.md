@@ -1,10 +1,5 @@
 # tic-tac-toe-minimax
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Tic-tac-toe - Minimax](https://cledersonbc.github.io/tic-tac-toe-minimax/)
-
-<p align="center">
-	<img src="preview/minimax_img.png"></img>
-</p>
-
+An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. 
 ## What is Minimax?
 Minimax is a artificial intelligence applied in two player games, such as tic-tac-toe, checkers, chess and go. This games are known as zero-sum games, because in a mathematical representation: one player wins (+1) and other player loses (-1) or both of anyone not to win (0).
 
@@ -168,3 +163,5 @@ In a more complex game, such as chess, it's hard to search whole game tree. Howe
 * Book: George T. Heineman; Gary Pollice; Stanley Selkow. Algorithms in a nutshell. O'Reilly, 2009.
 * Wikipédia: <https://en.wikipedia.org/wiki/Minimax>
 * Nanyang Technological University: <https://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html>
+
+Thanks .
